@@ -10,9 +10,9 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Projects from "./components/EducationAndExp";
 import Backgroung from "./pages/Backgroung";
-import Project from "./pages/Project";
+// import Project from "./pages/Project";
 import ContactMe from "./pages/ContactMe";
-import Github from "./components/Github";
+// import Github from "./components/Github";
 
 function App() {
   const { colorMode, toggleColorMode } = useColorMode();
